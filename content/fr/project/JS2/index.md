@@ -21,16 +21,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- # links:
- # - name: "Suivre JS2 sur Twitter"
- #  url: https://twitter.com/JeScience
- #  icon_pack: fab
- #  icon: twitter
-#
-# - name: "Suivre JS2 sur Instagram"
- #  url: https://www.instagram.com/jesciencedoncjesuis/
- #  icon_pack: fab
- #  icon: instagram
+links:
+ - name: Suivre JS2 sur Twitter
+   url: https://twitter.com/JeScience
+   icon_pack: fab
+   icon: twitter
+ - name: Suivre JS2 sur Instagram
+   url: https://www.instagram.com/jesciencedoncjesuis/
+   icon_pack: fab
+   icon: instagram
 
 url_code: ""
 url_pdf: ""
