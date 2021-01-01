@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Papier Mâché"
-summary: "Courant 2020, j'ai rédigé un article sur l'expérience de Luria et Delbrück de 1943, relatée dans leur article Mutations of bacteria from virus sensitivity to virus resistance pour le site de vulgarisation de publications scientifiques [Papier-Mâché](https://papiermachesciences.org/). Vous pouvez retrouver cet article [ici](https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C)"
+title: "Je Science donc Je Suis"
+summary: "During the spring of 2020, I joined the science communication association Je Science donc Je Suis (JS2). I became during the fall head of the podcast division of JS2. You can find more information in French." 
 authors: [Irène Tanneur]
 tags: ["Science-comm"]
-categories: ["Communication scientifique"]
-date: 2021-01-01T09:06:54+01:00
+categories: ["Science articles and communication"]
+date: 2021-01-01T11:16:17+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

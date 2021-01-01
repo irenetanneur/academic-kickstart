@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Papiermache"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Papier Mâché"
+summary: "In 2020, I wrote [an article](https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C) (in French) for the science popularization site Papier-Mâché, on the 1943 paper by Luria and Delbrück Mutations of bacteria from virus sensitivity to virus resistance. "
+authors: [Irène Tanneur]
+tags: ["Science-comm"]
+categories: ["Science articles and communication"]
 date: 2021-01-01T09:06:54+01:00
 
 # Optional external URL for project (replaces project detail page).
