@@ -49,6 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/IreneTanns
+- icon : twitter
+  icon_pack: fab
+  link : https://www.instagram.com/irene.tanns/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
