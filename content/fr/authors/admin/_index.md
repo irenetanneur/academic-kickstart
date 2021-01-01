@@ -49,7 +49,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/IreneTanns
-- icon : twitter
+- icon : instagram
   icon_pack: fab
   link : https://www.instagram.com/irene.tanns/
 # - icon: google-scholar
