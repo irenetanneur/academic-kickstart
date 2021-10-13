@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Maison d'Initiation et de Sensibilisation aux Sciences (MISS)"
   company_url = "http://hebergement.u-psud.fr/miss/"
   location = "Orsay"
-  date_start = "2020-10-10"
-  date_end = ""
+  date_start = "2020-10-01"
+  date_end = "2021-09-30"
   description = """Animation d'ateliers scientifiques auprès de publics primaires / collège. En période de confinement (sorties scolaires interdites), écriture, tournage et montage d'une vidéo [reprenant des éléments de l'atelier Bateaux](http://hebergement.u-psud.fr/miss/science-bateaux/)"""
 
 [[experience]]

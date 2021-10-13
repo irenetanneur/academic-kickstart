@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
+ title = "Facilitator of science workshops for children aged 8 to 15"
+  company = "Maison d'Initiation et de Sensibilisation aux Sciences (MISS)"
+  company_url = "http://hebergement.u-psud.fr/miss/"
+  location = "Orsay"
+  date_start = "2020-10-01"
+  date_end = "2021-09-30"
+  description = """Conducted scientific workshops for primary and secondary school students. During lockdown periods (school outings prohibited), writing, filming and editing of a video [using elements from the "Science and Ships" workshop (in French)](http://hebergement.u-psud.fr/miss/science-bateaux/)"""
+
+[[experience]]
   title = "Science communicator"
   company = "Paris-Saclay University "
   company_url = "https://www.universite-paris-saclay.fr/en"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Je Science donc Je Suis"
-summary: "Au printemps 2020, j'ai rejoint l'association de vulgarisation scientifique Je Science donc Je Suis. Je suis devenue à l'automne responsable du pôle Podcasts."
+summary: "Au printemps 2020, j'ai rejoint l'association de vulgarisation scientifique Je Science donc Je Suis. Je suis devenue à l'automne 2020 responsable du pôle Podcasts que j'ai animé pendant un an, et j'ai réalisé et produit plusieurs épisodes de podcast."
 authors: [Irène Tanneur]
 tags: ["Science-comm"]
 categories: ["Communication scientifique"]
@@ -52,6 +52,25 @@ Ci-dessous la liste des articles rédigés :
 - *Management* et sciences sociales : qu’est ce que la sociologie des organisations ?
 - Les inégalités sociales en sciences et le capital scientifique
 - Long Term Evolution Experiment : des bactéries évoluant en laboratoire depuis 1988, que vous pouvez lire [ici](https://irenetanneur.github.io/fr/post/ltee_article/)
-- Affaire Sokal et affaire Sokal au carré : de quoi parle-t-on ?
+- [Affaire Sokal et affaire Sokal au carré : de quoi parle-t-on ?](https://www.js2-sciences.com/blog/affaire-sokal-et-affaire-sokal-au-carre)
 
-J'ai ensuite fondé le pôle Podcasts de Je Science donc Je Suis avec une équipe dynamique, et nous avons lancé notre premier format de podcast, porté par Béatrice Urbah *Les Voix de la Science* en décembre 2020. Vous trouverez sur [ce site](https://les-voix-de-la-science.lepodcast.fr/) les liens vers le podcast sur les principales plateformes d'écoute.
+J'ai ensuite fondé le pôle Podcasts de Je Science donc Je Suis avec une équipe dynamique, et nous avons lancé sous l'impulsion de Béatrice Urbah notre premier podcast, sous le format d'interview de scientifiques, *Les Voix de la Science* en décembre 2020.
+
+En février 2021 un second format a vu le jour, *Flash Sciences* : des billets courts de vulgarisation scientifiques sur des sujets précis.
+
+Ci-dessous les épisodes que j'ai conçus, réalisés et produits :
+
+Pour *Les Voix de la Science* :
+
+- Agatha Liévin-Bazin, éthologue et vulgarisatrice scientifique [partie 1](https://les-voix-de-la-science.lepodcast.fr/agatha-lievin-bazin-partie-1) et [partie 2](https://les-voix-de-la-science.lepodcast.fr/agatha-lievin-bazin-partie-2)
+- Malek Amiri, doctorant en sciences infirmières [partie 1](https://les-voix-de-la-science.lepodcast.fr/malek-amiri-partie-1) et [partie 2](https://les-voix-de-la-science.lepodcast.fr/malek-amiri-partie-2)
+
+Pour *Flash Sciences* :
+
+- [Le microbiote vaginal](https://flashsciences.lepodcast.fr/le-microbiote-vaginal)
+- [Les supraconducteurs](https://flashsciences.lepodcast.fr/les-supraconducteurs)
+- [Des algues pour les voyages spatiaux - avec l'équipe iGEM de Sorbonne Université](https://flashsciences.lepodcast.fr/des-algues-pour-les-voyages-spatiaux-avec-lequipe-igem-de-sorbonne-universite)
+
+En tant que responsable du pôle podcast en 2020-2021, je me suis occupée de la mise en ligne et du partage sur les réseaux sociaux des épisodes de toute l'équipe. J'ai également créé les visuels pour mes propres épisodes. 
+
+Vous trouverez ici les liens vers les principales plateformes d'écoute pour [Les Voix de la Science]((https://les-voix-de-la-science.lepodcast.fr/) et [Flash Sciences](https://flashsciences.lepodcast.fr/).
