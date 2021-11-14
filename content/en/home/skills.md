@@ -25,7 +25,13 @@ subtitle = ""
   icon_pack = "emoji"
   name = "C++"
   description = "Basics"
-  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Basics"
+
 [[feature]]
   icon = ":dna:"
   icon_pack = "emoji"
